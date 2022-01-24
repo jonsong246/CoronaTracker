@@ -1,3 +1,11 @@
+# ABOUT 
+
+This project is a React-based application that tracks Covid cases by country. 
+
+Axios is used to pull from the API containing related data.
+
+API : https://covid19.mathdro.id/api
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
